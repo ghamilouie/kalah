@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ghamilouie/kalah.svg?branch=main)](https://travis-ci.org/ghamilouie/kalah)
+[![Build Status](https://travis-ci.com/ghamilouie/kalah.svg?branch=main)](https://travis-ci.com/ghamilouie/kalah)
 [![codecov](https://codecov.io/gh/ghamilouie/kalah/branch/main/graph/badge.svg)](https://codecov.io/gh/ghamilouie/kalah)
 
 ## Kalah
