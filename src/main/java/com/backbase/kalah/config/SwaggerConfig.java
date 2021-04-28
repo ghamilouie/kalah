@@ -38,7 +38,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
 
     private ApiInfo getApiInfo() {
         return new ApiInfoBuilder().title("Kalah")
-                .description("​Java RESTful Web Service ​that runs a game of 6-stone Kalah")
+                .description("​Java RESTful Web Service that runs a game of 6-stone Kalah")
                 .contact(new Contact("Khadijeh Ghamilouie", "https://www.linkedin.com/in/khadijeh-ghamilouie/",
                         "ghamilouie@gmail.com"))
                 .build();

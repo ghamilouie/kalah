@@ -1,5 +1,8 @@
+[![Build Status](https://travis-ci.org/ghamilouie/kalah.svg?branch=main)](https://travis-ci.org/ghamilouie/kalah)
+[![codecov](https://codecov.io/gh/ghamilouie/kalah/branch/main/graph/badge.svg)](https://codecov.io/gh/ghamilouie/kalah)
+
 ## Kalah
-A simple web-app for [Kalah Game](https://en.wikipedia.org/wiki/Kalah)
+Java RESTful Web Service​ that runs a game of 6-stone [Kalah Game](https://en.wikipedia.org/wiki/Kalah)
 
 ### Technologies
 - Java 8
